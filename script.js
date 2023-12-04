@@ -2,8 +2,8 @@ window.onload = function() {
 	var video = document.getElementById('video');
 	var outputImage = document.getElementById('outputImage');
 	var promptInput = document.getElementById('promptInput');
-	var keyId = 'eafab491-b39d-4682-9b72-0f17ad403137'; // change to ur FAL Key ID
-	var keySecret = '755740c77da804433d4e9e9cdbf4d782'; // change to ur FAL Key Secret
+	var keyId = 'urfalkeyid'; // change to ur FAL Key ID
+	var keySecret = 'urfalkeysecret'; // change to ur FAL Key Secret
 	var filestackApiKey = 'ur api key'; // change to ur Filestack API Key
 
 	// 设置摄像头流
